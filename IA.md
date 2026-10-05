@@ -1,8 +1,3 @@
-
----
-
-### `IA.md` — abra, apague tudo, cole:
-
 ```markdown
 # Uso de IA no Case — Detetive de Dados
 
