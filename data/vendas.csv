@@ -1,0 +1,801 @@
+﻿data_venda,produto,categoria,cliente,cidade,quantidade,valor_unitario,valor_total
+2024-06-02,Teclado Mecânico,Periférico,Cliente_152,Campinas,2,392.5,785.0
+2024-01-21,Mouse Gamer,Periférico,Cliente_077,,7,183.22,1282.54
+2024-11-20,Teclado Mecânico,Periférico,Cliente_147,Brasília,1,354.13,354.13
+2024-12-20,Teclado Mecânico,Periférico,Cliente_059,Fortaleza,1,321.51,321.51
+2024-10-11,Notebook Pro X,Notebook,Cliente_012,Belo Horizonte,1,9676.04,9676.04
+2024-10-29,SSD 1TB,Armazenamento,Cliente_048,Fortaleza,4,593.97,2375.88
+2024-06-17,SSD 1TB,Armazenamento,Cliente_149,Belo Horizonte,2,602.13,1204.26
+2024-04-04,Mouse Gamer,Periférico,Cliente_143,Belo Horizonte,5,175.81,879.05
+2024-09-13,Monitor 24,Monitor,Cliente_027,Fortaleza,2,995.54,1991.08
+2024-08-30,Monitor 24,Monitor,Cliente_145,Campinas,4,1258.44,5033.76
+2024-12-24,Headset Pro,Áudio,Cliente_178,Belo Horizonte,4,373.19,1492.76
+2024-10-03,Notebook Pro X,Notebook,Cliente_144,Brasília,4,9054.97,36219.88
+2024-11-11,Notebook Pro X,Notebook,Cliente_182,Campinas,3,9772.18,29316.54
+2024-11-12,Webcam HD,Vídeo,Cliente_012,Rio de Janeiro,5,245.93,1229.65
+2024-08-23,Dock Station,Acessórios,Cliente_120,Salvador,5,411.55,2057.75
+2024-02-01,Impressora Laser,Impressão,Cliente_008,Porto Alegre,4,1753.78,7015.12
+2024-06-11,Monitor 24,Monitor,Cliente_132,Campinas,2,1193.66,2387.32
+2024-11-25,Notebook Pro X,Notebook,Cliente_178,São Paulo,3,8110.73,24332.19
+2024-02-26,Notebook Pro X,Notebook,Cliente_195,Salvador,2,8519.9,17039.8
+2024-08-05,Dock Station,Acessórios,Cliente_036,Porto Alegre,4,507.54,2030.16
+2024-05-20,Teclado Mecânico,Periférico,,Fortaleza,4,326.73,1306.92
+2024-09-10,Notebook Pro X,Notebook,Cliente_009,Campinas,7,9569.8,66988.6
+2024-08-05,Impressora Laser,Impressão,Cliente_058,Curitiba,1,1367.02,1367.02
+2024-07-05,Monitor 24,Monitor,Cliente_040,Curitiba,5,1007.63,5038.15
+2024-05-25,Monitor 24,Monitor,Cliente_017,Salvador,7,1093.72,7656.04
+2024-10-05,Notebook Pro X,Notebook,Cliente_198,Campinas,3,9306.9,27920.7
+2024-11-01,Notebook Pro X,Notebook,Cliente_020,Recife,3,9643.89,28931.67
+2024-05-17,Teclado Mecânico,Periférico,Cliente_187,Porto Alegre,3,340.13,1020.39
+2024-05-22,Mouse Gamer,Periférico,,Campinas,4,184.58,738.32
+2024-08-02,Cadeira Office,Móveis,Cliente_035,Rio de Janeiro,4,1217.86,4871.44
+2024-11-09,Webcam HD,Vídeo,Cliente_107,Fortaleza,5,295.13,1475.65
+2024-07-05,Teclado Mecânico,Periférico,Cliente_075,Rio de Janeiro,7,312.51,2187.57
+2024-12-09,Notebook Pro X,Notebook,Cliente_083,São Paulo,2,8242.54,16485.08
+2024-05-11,Cadeira Office,Móveis,Cliente_167,Campinas,1,1215.67,1215.67
+2024-04-02,Webcam HD,Vídeo,Cliente_163,Fortaleza,4,297.82,1191.28
+2024-05-20,Cadeira Office,Móveis,Cliente_003,Salvador,6,1203.87,7223.22
+2024-04-13,Monitor 24,Monitor,Cliente_058,São Paulo,1,1049.47,1049.47
+2024-08-04,Webcam HD,Vídeo,Cliente_059,Salvador,3,295.7,887.1
+2024-05-05,Impressora Laser,Impressão,Cliente_130,Porto Alegre,6,1739.36,10436.16
+2024-06-08,Notebook Pro X,Notebook,Cliente_063,São Paulo,4,9309.13,37236.52
+2024-10-29,Notebook Pro X,Notebook,,Curitiba,5,7611.77,38058.85
+2024-12-26,Notebook Pro X,Notebook,Cliente_004,Curitiba,4,7327.28,29309.12
+2024-06-02,Notebook Pro X,Notebook,Cliente_165,Fortaleza,6,9340.84,56045.04
+2024-03-05,Impressora Laser,Impressão,Cliente_124,Curitiba,5,1659.47,8297.35
+2024-10-20,Notebook Pro X,Notebook,Cliente_196,Porto Alegre,1,8015.01,8015.01
+2024-06-17,Monitor 24,Monitor,Cliente_088,Rio de Janeiro,6,1217.22,7303.32
+2024-11-14,SSD 1TB,Armazenamento,Cliente_015,Fortaleza,3,614.77,1844.31
+2024-03-24,Dock Station,Acessórios,Cliente_023,Fortaleza,5,482.74,2413.7
+2024-11-14,Teclado Mecânico,Periférico,Cliente_115,Curitiba,2,352.02,704.04
+2024-12-22,Notebook Pro X,Notebook,Cliente_169,Curitiba,5,9058.86,45294.3
+2024-02-01,Notebook Pro X,Notebook,Cliente_179,Brasília,4,9740.91,38963.64
+2024-11-03,Notebook Pro X,Notebook,Cliente_092,Brasília,5,7306.1,36530.5
+2024-01-23,Impressora Laser,Impressão,Cliente_013,São Paulo,1,1811.4,1811.4
+2024-10-10,Notebook Pro X,Notebook,Cliente_183,Rio de Janeiro,5,7653.44,38267.2
+2024-01-25,Impressora Laser,Impressão,Cliente_043,São Paulo,5,1745.02,8725.1
+2024-03-20,Dock Station,Acessórios,Cliente_050,Belo Horizonte,5,477.03,2385.15
+2024-04-26,Mouse Gamer,Periférico,,Belo Horizonte,3,199.31,597.93
+2024-03-10,Mouse Gamer,Periférico,Cliente_058,Recife,5,197.56,987.8
+2024-10-25,Notebook Pro X,Notebook,Cliente_084,Porto Alegre,1,7833.88,7833.88
+2024-05-23,Impressora Laser,Impressão,Cliente_140,Curitiba,5,1525.69,7628.45
+2024-11-17,Mouse Gamer,Periférico,Cliente_158,Porto Alegre,5,185.59,927.95
+2024-12-13,Notebook Pro X,Notebook,Cliente_008,Salvador,4,9561.87,38247.48
+2024-04-21,Impressora Laser,Impressão,Cliente_012,São Paulo,1,1769.22,1769.22
+2024-10-12,Dock Station,Acessórios,,Recife,4,446.61,1786.44
+2024-02-27,Mouse Gamer,Periférico,Cliente_199,Belo Horizonte,5,160.09,800.45
+2024-01-01,SSD 1TB,Armazenamento,Cliente_045,Salvador,7,481.06,3367.42
+2024-02-22,Impressora Laser,Impressão,Cliente_170,Salvador,2,1748.85,3497.7
+2024-11-12,Notebook Pro X,Notebook,,São Paulo,6,8763.03,52578.18
+2024-10-31,Notebook Pro X,Notebook,Cliente_056,Belo Horizonte,5,7543.02,37715.1
+2024-12-12,Webcam HD,Vídeo,Cliente_160,Porto Alegre,6,315.67,1894.02
+2024-04-30,Headset Pro,Áudio,Cliente_025,Belo Horizonte,6,372.79,2236.74
+2024-08-03,Mouse Gamer,Periférico,Cliente_131,Porto Alegre,3,171.35,514.05
+2024-05-27,Cadeira Office,Móveis,Cliente_195,Fortaleza,2,1330.37,2660.74
+2024-09-07,Notebook Pro X,Notebook,Cliente_129,Fortaleza,1,7758.13,7758.13
+2024-10-09,Notebook Pro X,Notebook,Cliente_093,Belo Horizonte,4,8056.2,32224.8
+2024-02-14,SSD 1TB,Armazenamento,Cliente_158,Rio de Janeiro,4,585.57,2342.28
+2024-04-23,Notebook Pro X,Notebook,Cliente_146,Curitiba,1,8750.47,8750.47
+2024-04-18,SSD 1TB,Armazenamento,Cliente_098,Fortaleza,4,533.9,2135.6
+2024-02-05,Notebook Pro X,Notebook,Cliente_092,,2,9473.31,18946.62
+2024-12-02,Notebook Pro X,Notebook,Cliente_058,Porto Alegre,4,8254.18,33016.72
+2024-08-27,SSD 1TB,Armazenamento,Cliente_124,Brasília,1,541.83,541.83
+2024-05-02,Headset Pro,Áudio,Cliente_104,Recife,3,425.4,1276.2
+2024-08-23,Headset Pro,Áudio,Cliente_012,São Paulo,7,451.61,3161.27
+2024-10-07,Webcam HD,Vídeo,Cliente_181,Brasília,2,242.83,485.66
+2024-07-22,Cadeira Office,Móveis,Cliente_017,Brasília,4,1243.1,4972.4
+2024-12-11,Notebook Pro X,Notebook,Cliente_050,Fortaleza,-7,8384.59,-58692.13
+2024-05-23,Headset Pro,Áudio,Cliente_172,Porto Alegre,7,444.05,3108.35
+2024-05-14,Monitor 24,Monitor,Cliente_102,Belo Horizonte,6,1232.45,7394.7
+2024-08-24,Headset Pro,Áudio,Cliente_080,,7,445.57,3118.99
+2024-04-16,Impressora Laser,Impressão,Cliente_006,São Paulo,5,1839.86,9199.3
+2024-12-31,Monitor 24,Monitor,Cliente_194,Brasília,5,1063.45,5317.25
+2024-12-06,Notebook Pro X,Notebook,Cliente_058,São Paulo,7,8580.51,60063.57
+2024-10-25,Headset Pro,Áudio,Cliente_133,Rio de Janeiro,5,388.0,1940.0
+2024-08-15,SSD 1TB,Armazenamento,Cliente_042,Curitiba,6,598.39,3590.34
+2024-05-26,Impressora Laser,Impressão,Cliente_146,São Paulo,6,1692.33,10153.98
+2024-04-13,Webcam HD,Vídeo,Cliente_129,Rio de Janeiro,5,282.73,1413.65
+2024-01-23,Headset Pro,Áudio,Cliente_122,Porto Alegre,7,402.55,2817.85
+2024-02-07,Dock Station,Acessórios,Cliente_111,Rio de Janeiro,4,387.92,1551.68
+2024-08-04,Webcam HD,Vídeo,,Curitiba,6,283.41,1700.46
+2024-02-11,Headset Pro,Áudio,Cliente_022,Brasília,4,391.1,1564.4
+2024-12-09,Dock Station,Acessórios,Cliente_148,Campinas,6,394.02,2364.12
+2024-05-22,Cadeira Office,Móveis,Cliente_009,Recife,5,1122.44,5612.2
+2024-12-21,Notebook Pro X,Notebook,Cliente_053,Porto Alegre,2,9391.6,18783.2
+2024-08-02,SSD 1TB,Armazenamento,Cliente_059,Campinas,-5,621.56,-3107.8
+2024-02-12,Cadeira Office,Móveis,Cliente_180,Porto Alegre,4,1360.63,5442.52
+2024-02-11,Mouse Gamer,Periférico,,Brasília,1,163.07,163.07
+2024-02-07,Cadeira Office,Móveis,Cliente_128,,7,1077.91,7545.37
+2024-10-05,Notebook Pro X,Notebook,Cliente_024,Porto Alegre,2,8619.08,17238.16
+2024-10-25,Mouse Gamer,Periférico,Cliente_068,Porto Alegre,2,177.7,355.4
+2024-10-27,SSD 1TB,Armazenamento,Cliente_198,Salvador,1,624.3,624.3
+2024-08-23,Impressora Laser,Impressão,Cliente_092,Curitiba,6,1737.64,10425.84
+2024-06-15,Cadeira Office,Móveis,Cliente_174,Rio de Janeiro,2,1073.03,2146.06
+2024-10-08,Mouse Gamer,Periférico,Cliente_167,São Paulo,3,184.5,553.5
+2024-08-16,SSD 1TB,Armazenamento,Cliente_190,Recife,5,531.63,2658.15
+2024-11-18,Notebook Pro X,Notebook,Cliente_099,Curitiba,5,8580.74,42903.7
+2024-07-05,Cadeira Office,Móveis,Cliente_012,,6,1151.14,6906.84
+2024-09-26,Headset Pro,Áudio,Cliente_139,Porto Alegre,1,472.84,472.84
+2024-11-14,Teclado Mecânico,Periférico,Cliente_115,Curitiba,2,352.02,704.04
+2024-05-27,Cadeira Office,Móveis,Cliente_195,Fortaleza,2,1330.37,2660.74
+2024-02-21,Mouse Gamer,Periférico,Cliente_064,Rio de Janeiro,6,205.63,1233.78
+2024-11-04,Impressora Laser,Impressão,Cliente_065,Campinas,6,1443.92,8663.52
+2024-02-15,Webcam HD,Vídeo,Cliente_116,Fortaleza,2,301.06,602.12
+2024-10-13,SSD 1TB,Armazenamento,Cliente_111,Campinas,2,559.53,1119.06
+2024-09-26,Cadeira Office,Móveis,Cliente_044,Recife,5,1177.74,5888.7
+2024-10-08,Notebook Pro X,Notebook,Cliente_139,Rio de Janeiro,4,8175.36,32701.44
+2024-10-04,Cadeira Office,Móveis,Cliente_087,,4,1154.23,4616.92
+2024-11-22,Monitor 24,Monitor,Cliente_186,Fortaleza,5,1034.35,5171.75
+2024-12-23,Notebook Pro X,Notebook,Cliente_183,Recife,3,7842.51,23527.53
+2024-12-11,Notebook Pro X,Notebook,Cliente_050,Fortaleza,7,8384.59,58692.13
+2024-12-19,Impressora Laser,Impressão,Cliente_011,Rio de Janeiro,2,1559.78,3119.56
+2024-10-05,Notebook Pro X,Notebook,Cliente_010,Recife,6,8019.81,48118.86
+2024-04-03,Impressora Laser,Impressão,Cliente_160,Brasília,1,1547.63,1547.63
+2024-05-01,Webcam HD,Vídeo,Cliente_145,Salvador,1,287.72,287.72
+2024-04-13,Teclado Mecânico,Periférico,Cliente_054,Recife,1,327.19,327.19
+2024-10-27,Notebook Pro X,Notebook,Cliente_200,Rio de Janeiro,3,8584.04,25752.12
+2024-02-21,Dock Station,Acessórios,Cliente_187,Fortaleza,2,407.03,814.06
+2024-09-28,Notebook Pro X,Notebook,Cliente_028,Fortaleza,5,8408.37,42041.85
+2024-04-09,Headset Pro,Áudio,Cliente_163,Rio de Janeiro,3,444.56,1333.68
+2024-06-06,Cadeira Office,Móveis,Cliente_014,Rio de Janeiro,3,1263.91,3791.73
+2024-12-12,Dock Station,Acessórios,Cliente_039,Fortaleza,3,390.48,1171.44
+2024-03-05,Dock Station,Acessórios,Cliente_146,Campinas,5,412.22,2061.1
+2024-12-29,Notebook Pro X,Notebook,Cliente_193,Rio de Janeiro,1,7713.56,7713.56
+2024-06-10,Monitor 24,Monitor,Cliente_200,Campinas,4,1145.24,4580.96
+2024-07-13,Impressora Laser,Impressão,Cliente_194,São Paulo,1,1663.27,1663.27
+2024-06-07,SSD 1TB,Armazenamento,Cliente_175,Belo Horizonte,6,532.03,3192.18
+2024-01-22,Impressora Laser,Impressão,Cliente_005,São Paulo,4,1584.06,6336.24
+2024-11-22,Headset Pro,Áudio,Cliente_133,Fortaleza,1,373.89,373.89
+2024-05-05,Impressora Laser,Impressão,Cliente_130,Porto Alegre,6,1739.36,10436.16
+2024-01-20,Monitor 24,Monitor,Cliente_183,Salvador,5,1257.14,6285.7
+2024-10-10,SSD 1TB,Armazenamento,Cliente_116,Recife,1,516.29,516.29
+2024-01-03,Headset Pro,Áudio,Cliente_085,,3,430.2,1290.6
+2024-12-12,Notebook Pro X,Notebook,Cliente_130,Porto Alegre,1,8000.82,8000.82
+2024-03-16,Notebook Pro X,Notebook,Cliente_018,,-5,9089.45,-45447.25
+2024-12-21,Notebook Pro X,Notebook,Cliente_053,Porto Alegre,2,9391.6,18783.2
+2024-06-13,Notebook Pro X,Notebook,Cliente_075,Rio de Janeiro,3,8224.24,24672.72
+2024-01-27,Headset Pro,Áudio,Cliente_002,Brasília,3,437.38,1312.14
+2024-06-03,Notebook Pro X,Notebook,Cliente_188,Porto Alegre,4,7903.35,31613.4
+2024-09-15,Notebook Pro X,Notebook,Cliente_175,Curitiba,3,7776.44,23329.32
+2024-11-25,Teclado Mecânico,Periférico,Cliente_045,Belo Horizonte,-3,400.57,-1201.71
+2024-08-25,Dock Station,Acessórios,,Campinas,4,513.48,2053.92
+2024-12-29,Notebook Pro X,Notebook,Cliente_119,Belo Horizonte,6,7684.03,46104.18
+2024-06-21,Cadeira Office,Móveis,Cliente_146,Belo Horizonte,2,1044.11,2088.22
+2024-06-03,Notebook Pro X,Notebook,Cliente_188,Porto Alegre,4,7903.35,31613.4
+2024-12-23,Teclado Mecânico,Periférico,Cliente_149,Curitiba,4,347.31,1389.24
+2024-04-03,Teclado Mecânico,Periférico,Cliente_027,Rio de Janeiro,3,400.77,1202.31
+2024-10-12,Dock Station,Acessórios,Cliente_007,Recife,2,436.05,872.1
+2024-12-22,Monitor 24,Monitor,Cliente_151,São Paulo,6,1012.85,6077.1
+2024-09-27,SSD 1TB,Armazenamento,Cliente_151,Recife,4,588.41,2353.64
+2024-03-07,Webcam HD,Vídeo,Cliente_033,São Paulo,5,257.1,1285.5
+2024-08-19,Dock Station,Acessórios,Cliente_142,Rio de Janeiro,3,505.79,1517.37
+2024-08-12,Webcam HD,Vídeo,Cliente_142,Curitiba,1,257.1,257.1
+2024-08-11,Impressora Laser,Impressão,Cliente_090,Recife,7,1629.4,11405.8
+2024-10-11,Mouse Gamer,Periférico,Cliente_014,Belo Horizonte,5,163.07,815.35
+2024-12-12,Mouse Gamer,Periférico,Cliente_161,Rio de Janeiro,5,165.17,825.85
+2024-08-26,Teclado Mecânico,Periférico,Cliente_056,Recife,2,354.6,709.2
+2024-10-14,Notebook Pro X,Notebook,Cliente_093,Recife,4,9332.88,37331.52
+2024-08-20,Mouse Gamer,Periférico,Cliente_124,Brasília,6,155.22,931.32
+2024-01-11,Headset Pro,Áudio,Cliente_149,Campinas,5,395.38,1976.9
+2024-09-27,Monitor 24,Monitor,Cliente_130,São Paulo,1,936.75,936.75
+2024-08-25,Cadeira Office,Móveis,Cliente_170,Rio de Janeiro,4,1093.45,4373.8
+2024-02-14,Teclado Mecânico,Periférico,Cliente_138,Belo Horizonte,3,332.94,998.82
+2024-03-11,Headset Pro,Áudio,Cliente_170,Recife,2,421.85,843.7
+2024-12-03,Notebook Pro X,Notebook,Cliente_046,Curitiba,5,9181.33,45906.65
+2024-11-16,Impressora Laser,Impressão,Cliente_173,Campinas,3,1466.19,4398.57
+2024-05-24,Notebook Pro X,Notebook,Cliente_149,,2,8928.06,17856.12
+2024-05-05,Webcam HD,Vídeo,Cliente_185,Porto Alegre,7,241.42,1689.94
+2024-08-27,Webcam HD,Vídeo,Cliente_179,Porto Alegre,3,302.87,908.61
+2024-10-04,Notebook Pro X,Notebook,Cliente_084,Brasília,5,9131.99,45659.95
+2024-11-01,Notebook Pro X,Notebook,Cliente_085,Porto Alegre,1,7782.2,7782.2
+2024-06-22,Webcam HD,Vídeo,Cliente_033,São Paulo,6,251.92,1511.52
+2024-07-03,SSD 1TB,Armazenamento,Cliente_002,,1,537.14,537.14
+2024-12-05,Notebook Pro X,Notebook,Cliente_153,Salvador,6,7881.9,47291.4
+2024-10-29,Headset Pro,Áudio,Cliente_082,Campinas,2,439.31,878.62
+2024-05-04,SSD 1TB,Armazenamento,Cliente_174,Belo Horizonte,2,552.25,1104.5
+2024-10-26,Mouse Gamer,Periférico,Cliente_177,São Paulo,4,157.0,628.0
+2024-08-08,Dock Station,Acessórios,Cliente_092,Curitiba,2,434.92,869.84
+2024-02-05,Notebook Pro X,Notebook,Cliente_066,Curitiba,6,8712.14,52272.84
+2024-07-19,Teclado Mecânico,Periférico,Cliente_081,Rio de Janeiro,1,378.45,378.45
+2024-03-02,Monitor 24,Monitor,Cliente_065,Belo Horizonte,2,1083.2,2166.4
+2024-09-12,Cadeira Office,Móveis,Cliente_175,,1,1132.31,1132.31
+2024-10-12,Webcam HD,Vídeo,Cliente_106,Salvador,6,306.81,1840.86
+2024-10-15,Notebook Pro X,Notebook,,Rio de Janeiro,6,8652.08,51912.48
+2024-10-09,Notebook Pro X,Notebook,Cliente_196,Brasília,5,8113.26,40566.3
+2024-10-29,Impressora Laser,Impressão,Cliente_197,Campinas,6,1805.76,10834.56
+2024-08-03,Notebook Pro X,Notebook,Cliente_069,Rio de Janeiro,6,9603.99,57623.94
+2024-08-17,Headset Pro,Áudio,Cliente_006,Belo Horizonte,4,358.95,1435.8
+2024-12-24,Notebook Pro X,Notebook,Cliente_021,Fortaleza,4,7677.47,30709.88
+2024-08-05,Teclado Mecânico,Periférico,Cliente_068,,2,393.36,786.72
+2024-03-09,Cadeira Office,Móveis,Cliente_164,Campinas,2,1293.96,2587.92
+2024-07-31,Cadeira Office,Móveis,Cliente_023,Recife,1,1044.26,1044.26
+2024-08-12,SSD 1TB,Armazenamento,Cliente_073,Brasília,1,570.25,570.25
+2024-05-08,SSD 1TB,Armazenamento,Cliente_039,Recife,6,615.95,3695.7
+2024-04-28,Teclado Mecânico,Periférico,Cliente_189,Campinas,7,342.04,2394.28
+2024-03-31,Impressora Laser,Impressão,Cliente_176,Rio de Janeiro,7,1663.96,11647.72
+2024-09-24,Impressora Laser,Impressão,Cliente_144,Curitiba,4,1680.68,6722.72
+2024-04-01,Notebook Pro X,Notebook,Cliente_147,Rio de Janeiro,5,8473.1,42365.5
+2024-09-01,Notebook Pro X,Notebook,,Recife,4,8322.85,33291.4
+2024-09-12,Notebook Pro X,Notebook,,Recife,1,8597.92,8597.92
+2024-06-01,Cadeira Office,Móveis,,São Paulo,5,1048.29,5241.45
+2024-08-25,Teclado Mecânico,Periférico,Cliente_030,Brasília,6,353.29,2119.74
+2024-09-05,Notebook Pro X,Notebook,Cliente_035,Campinas,1,8245.54,8245.54
+2024-08-01,Impressora Laser,Impressão,Cliente_063,,1,1530.57,1530.57
+2024-05-23,Dock Station,Acessórios,Cliente_181,Recife,2,444.39,888.78
+2024-11-30,Notebook Pro X,Notebook,Cliente_055,,-3,9230.0,-27690.0
+2024-04-05,Impressora Laser,Impressão,Cliente_033,Curitiba,6,1702.75,10216.5
+2024-12-08,Notebook Pro X,Notebook,Cliente_030,Salvador,3,9106.57,27319.71
+2024-12-14,Mouse Gamer,Periférico,Cliente_090,Porto Alegre,2,189.95,379.9
+2024-07-09,Headset Pro,Áudio,Cliente_006,Recife,3,427.49,1282.47
+2024-11-28,Notebook Pro X,Notebook,Cliente_047,Porto Alegre,2,9243.23,18486.46
+2024-10-09,Dock Station,Acessórios,Cliente_113,Curitiba,1,425.71,425.71
+2024-09-19,Headset Pro,Áudio,Cliente_080,Brasília,1,376.82,376.82
+2024-02-19,Monitor 24,Monitor,Cliente_102,Brasília,7,1189.97,8329.79
+2024-05-26,Dock Station,Acessórios,Cliente_141,Recife,6,396.11,2376.66
+2024-11-24,Cadeira Office,Móveis,,Brasília,3,1300.99,3902.97
+2024-03-28,Webcam HD,Vídeo,Cliente_117,Rio de Janeiro,3,320.69,962.07
+2024-01-09,Mouse Gamer,Periférico,Cliente_063,Porto Alegre,5,195.6,978.0
+2024-08-28,Teclado Mecânico,Periférico,Cliente_171,São Paulo,1,368.6,368.6
+2024-03-03,Impressora Laser,Impressão,Cliente_165,Recife,1,1582.69,1582.69
+2024-12-02,Headset Pro,Áudio,,São Paulo,6,363.06,2178.36
+2024-04-14,SSD 1TB,Armazenamento,Cliente_138,Campinas,7,541.71,3791.97
+2024-08-23,Webcam HD,Vídeo,Cliente_017,Porto Alegre,4,277.59,1110.36
+2024-03-06,Webcam HD,Vídeo,Cliente_154,Campinas,4,307.67,1230.68
+2024-10-20,Mouse Gamer,Periférico,Cliente_032,Curitiba,2,174.44,348.88
+2024-12-12,Notebook Pro X,Notebook,Cliente_162,Salvador,1,8515.98,8515.98
+2024-04-16,Teclado Mecânico,Periférico,Cliente_119,Campinas,6,359.44,2156.64
+2024-12-17,Notebook Pro X,Notebook,Cliente_048,Salvador,4,9432.84,37731.36
+2024-02-22,SSD 1TB,Armazenamento,Cliente_132,Recife,4,524.54,2098.16
+2024-02-18,Impressora Laser,Impressão,Cliente_153,Recife,3,1624.04,4872.12
+2024-05-19,Dock Station,Acessórios,Cliente_183,Brasília,5,407.39,2036.95
+2024-11-22,Impressora Laser,Impressão,Cliente_080,Brasília,5,1521.76,7608.8
+2024-09-24,SSD 1TB,Armazenamento,Cliente_159,Rio de Janeiro,7,533.72,3736.04
+2024-08-22,Dock Station,Acessórios,,Brasília,5,479.21,2396.05
+2024-11-30,Headset Pro,Áudio,Cliente_184,Porto Alegre,7,409.89,2869.23
+2024-09-05,Webcam HD,Vídeo,Cliente_081,Rio de Janeiro,5,278.37,1391.85
+2024-10-14,Notebook Pro X,Notebook,Cliente_121,São Paulo,6,7631.71,45790.26
+2024-02-24,Cadeira Office,Móveis,Cliente_169,São Paulo,2,1177.54,2355.08
+2024-05-05,Notebook Pro X,Notebook,Cliente_051,Brasília,4,7847.52,31390.08
+2024-05-08,Impressora Laser,Impressão,Cliente_036,Rio de Janeiro,3,1511.5,4534.5
+2024-07-29,Notebook Pro X,Notebook,Cliente_184,Belo Horizonte,-7,7495.12,-52465.84
+2024-01-17,Cadeira Office,Móveis,Cliente_162,Porto Alegre,1,1264.22,1264.22
+2024-01-14,Teclado Mecânico,Periférico,Cliente_143,Rio de Janeiro,2,343.54,687.08
+2024-05-06,Dock Station,Acessórios,Cliente_021,Brasília,5,400.47,2002.35
+2024-03-15,Monitor 24,Monitor,Cliente_030,,4,978.07,3912.28
+2024-04-06,Teclado Mecânico,Periférico,Cliente_061,São Paulo,6,325.8,1954.8
+2024-04-03,Cadeira Office,Móveis,Cliente_049,Campinas,6,1205.71,7234.26
+2024-06-08,Webcam HD,Vídeo,Cliente_200,,7,312.71,2188.97
+2024-02-29,Monitor 24,Monitor,Cliente_117,Curitiba,6,1036.41,6218.46
+2024-01-13,Teclado Mecânico,Periférico,Cliente_063,Salvador,1,330.51,330.51
+2024-01-02,SSD 1TB,Armazenamento,,Rio de Janeiro,3,503.03,1509.09
+2024-04-07,Teclado Mecânico,Periférico,Cliente_147,Campinas,6,389.39,2336.34
+2024-11-07,Notebook Pro X,Notebook,Cliente_173,Rio de Janeiro,4,8682.26,34729.04
+2024-11-20,Notebook Pro X,Notebook,Cliente_144,Brasília,2,8478.62,16957.24
+2024-05-28,Headset Pro,Áudio,Cliente_145,Porto Alegre,4,471.27,1885.08
+2024-11-09,Mouse Gamer,Periférico,Cliente_015,Brasília,2,172.48,344.96
+2024-12-31,Notebook Pro X,Notebook,Cliente_075,Brasília,3,8757.74,26273.22
+2024-02-09,SSD 1TB,Armazenamento,Cliente_017,São Paulo,1,583.81,583.81
+2024-08-20,Cadeira Office,Móveis,Cliente_123,Porto Alegre,5,1056.91,5284.55
+2024-08-21,SSD 1TB,Armazenamento,Cliente_054,Campinas,1,614.39,614.39
+2024-09-12,Notebook Pro X,Notebook,Cliente_180,Salvador,5,7281.42,36407.1
+2024-06-08,Headset Pro,Áudio,Cliente_051,Campinas,4,456.39,1825.56
+2024-05-11,Cadeira Office,Móveis,Cliente_179,Porto Alegre,6,1184.15,7104.9
+2024-11-29,Monitor 24,Monitor,Cliente_130,Salvador,3,1062.53,3187.59
+2024-01-18,Headset Pro,Áudio,Cliente_181,Rio de Janeiro,5,477.91,2389.55
+2024-04-01,Impressora Laser,Impressão,Cliente_045,Brasília,5,1419.04,7095.2
+2024-03-11,Headset Pro,Áudio,Cliente_161,Recife,4,373.33,1493.32
+2024-08-12,Cadeira Office,Móveis,Cliente_053,Salvador,2,1349.19,2698.38
+2024-01-31,Dock Station,Acessórios,Cliente_114,São Paulo,4,433.33,1733.32
+2024-11-17,Impressora Laser,Impressão,Cliente_150,Recife,5,1718.04,8590.2
+2024-11-28,SSD 1TB,Armazenamento,Cliente_008,Rio de Janeiro,3,507.62,1522.86
+2024-04-24,Cadeira Office,Móveis,Cliente_059,Belo Horizonte,4,1091.84,4367.36
+2024-10-14,Teclado Mecânico,Periférico,Cliente_046,Belo Horizonte,6,388.22,2329.32
+2024-06-08,Headset Pro,Áudio,Cliente_111,São Paulo,1,374.37,374.37
+2024-11-17,Notebook Pro X,Notebook,Cliente_140,Fortaleza,3,7457.78,22373.34
+2024-08-05,Teclado Mecânico,Periférico,Cliente_149,Rio de Janeiro,4,387.91,1551.64
+2024-12-03,Notebook Pro X,Notebook,Cliente_125,Rio de Janeiro,2,8028.04,16056.08
+2024-07-19,Mouse Gamer,Periférico,Cliente_052,Fortaleza,6,177.35,1064.1
+2024-06-13,Dock Station,Acessórios,Cliente_014,,3,478.8,1436.4
+2024-04-05,Notebook Pro X,Notebook,Cliente_164,Belo Horizonte,1,8049.6,8049.6
+2024-07-01,Headset Pro,Áudio,Cliente_157,Belo Horizonte,5,475.51,2377.55
+2024-06-06,Monitor 24,Monitor,Cliente_072,Belo Horizonte,3,1257.34,3772.02
+2024-10-11,Headset Pro,Áudio,Cliente_074,Recife,6,414.41,2486.46
+2024-10-22,Notebook Pro X,Notebook,Cliente_155,Fortaleza,5,8451.27,42256.35
+2024-08-15,Cadeira Office,Móveis,Cliente_074,Brasília,1,1268.55,1268.55
+2024-04-23,Dock Station,Acessórios,Cliente_071,Curitiba,4,484.98,1939.92
+2024-03-02,Monitor 24,Monitor,Cliente_065,Belo Horizonte,2,1083.2,2166.4
+2024-07-04,Mouse Gamer,Periférico,Cliente_016,Fortaleza,1,199.97,199.97
+2024-09-25,Mouse Gamer,Periférico,Cliente_021,Curitiba,3,187.25,561.75
+2024-04-21,SSD 1TB,Armazenamento,Cliente_154,Fortaleza,4,567.66,2270.64
+2024-10-21,Notebook Pro X,Notebook,,Fortaleza,7,8483.54,59384.78
+2024-08-01,Headset Pro,Áudio,Cliente_061,Belo Horizonte,4,360.06,1440.24
+2024-12-19,Notebook Pro X,Notebook,Cliente_027,Rio de Janeiro,5,8506.72,42533.6
+2024-09-01,SSD 1TB,Armazenamento,Cliente_197,Curitiba,3,510.3,1530.9
+2024-05-11,Impressora Laser,Impressão,Cliente_196,Rio de Janeiro,5,1754.07,8770.35
+2024-07-01,Cadeira Office,Móveis,Cliente_086,Fortaleza,3,1065.86,3197.58
+2024-02-20,Notebook Pro X,Notebook,Cliente_025,Recife,6,9566.1,57396.6
+2024-03-21,Monitor 24,Monitor,Cliente_115,Brasília,5,1063.47,5317.35
+2024-12-25,Notebook Pro X,Notebook,Cliente_067,Curitiba,4,9148.38,36593.52
+2024-06-15,SSD 1TB,Armazenamento,Cliente_027,,7,522.31,3656.17
+2024-05-28,Dock Station,Acessórios,Cliente_046,Rio de Janeiro,4,511.91,2047.64
+2024-09-16,Headset Pro,Áudio,Cliente_168,São Paulo,7,382.1,2674.7
+2024-11-13,Notebook Pro X,Notebook,Cliente_022,Curitiba,1,8010.11,8010.11
+2024-05-25,Mouse Gamer,Periférico,Cliente_163,Porto Alegre,5,170.56,852.8
+2024-11-24,Impressora Laser,Impressão,Cliente_162,Brasília,4,1432.33,5729.32
+2024-03-21,Monitor 24,Monitor,Cliente_003,Belo Horizonte,6,1175.68,7054.08
+2024-04-16,Impressora Laser,Impressão,Cliente_151,Recife,5,1710.21,8551.05
+2024-06-12,Cadeira Office,Móveis,Cliente_049,Brasília,4,1370.55,5482.2
+2024-06-13,Teclado Mecânico,Periférico,Cliente_069,São Paulo,7,368.92,2582.44
+2024-05-14,SSD 1TB,Armazenamento,Cliente_084,Rio de Janeiro,7,494.48,3461.36
+2024-10-18,Notebook Pro X,Notebook,Cliente_085,Fortaleza,4,9421.37,37685.48
+2024-05-11,Mouse Gamer,Periférico,Cliente_164,,5,167.87,839.35
+2024-12-20,SSD 1TB,Armazenamento,Cliente_135,Belo Horizonte,4,526.05,2104.2
+2024-09-17,Notebook Pro X,Notebook,Cliente_124,Campinas,4,7595.25,30381.0
+2024-08-03,Cadeira Office,Móveis,Cliente_187,Fortaleza,4,1043.22,4172.88
+2024-01-28,Headset Pro,Áudio,Cliente_035,Campinas,6,359.16,2154.96
+2024-05-29,Webcam HD,Vídeo,Cliente_027,São Paulo,7,263.48,1844.36
+2024-07-07,Mouse Gamer,Periférico,Cliente_063,Porto Alegre,4,174.86,699.44
+2024-06-13,Mouse Gamer,Periférico,Cliente_109,Campinas,5,198.02,990.1
+2024-01-18,Dock Station,Acessórios,Cliente_044,Rio de Janeiro,2,503.3,1006.6
+2024-09-29,SSD 1TB,Armazenamento,Cliente_097,Salvador,4,496.24,1984.96
+2024-04-23,Cadeira Office,Móveis,Cliente_190,São Paulo,1,1102.06,1102.06
+2024-02-04,Mouse Gamer,Periférico,Cliente_068,São Paulo,4,156.64,626.56
+2024-08-17,Impressora Laser,Impressão,Cliente_031,Brasília,2,1369.92,2739.84
+2024-12-28,Dock Station,Acessórios,Cliente_006,Belo Horizonte,6,422.41,2534.46
+2024-11-11,Dock Station,Acessórios,Cliente_096,Curitiba,7,435.85,3050.95
+2024-04-08,SSD 1TB,Armazenamento,Cliente_059,Fortaleza,5,502.96,2514.8
+2024-01-28,Notebook Pro X,Notebook,Cliente_136,Recife,1,9713.78,9713.78
+2024-12-13,Notebook Pro X,Notebook,Cliente_191,Campinas,4,7646.52,30586.08
+2024-01-08,Monitor 24,Monitor,Cliente_093,Campinas,5,1209.11,6045.55
+2024-06-24,Cadeira Office,Móveis,Cliente_145,Fortaleza,6,1071.3,6427.8
+2024-05-05,Cadeira Office,Móveis,Cliente_194,Brasília,6,1331.78,7990.68
+2024-12-17,Notebook Pro X,Notebook,Cliente_091,Brasília,6,8811.2,52867.2
+2024-01-24,Mouse Gamer,Periférico,Cliente_158,Rio de Janeiro,3,167.57,502.71
+2024-12-06,Notebook Pro X,Notebook,Cliente_169,Porto Alegre,5,8302.7,41513.5
+2024-09-19,SSD 1TB,Armazenamento,Cliente_068,Porto Alegre,5,525.52,2627.6
+2024-09-30,Notebook Pro X,Notebook,Cliente_098,Belo Horizonte,5,7458.53,37292.65
+2024-11-22,Notebook Pro X,Notebook,Cliente_131,Recife,2,8249.81,16499.62
+2024-04-30,Webcam HD,Vídeo,Cliente_110,Campinas,3,312.12,936.36
+2024-12-22,Notebook Pro X,Notebook,Cliente_180,Campinas,5,9557.86,47789.3
+2024-04-14,Monitor 24,Monitor,Cliente_083,Brasília,7,962.48,6737.36
+2024-02-26,Webcam HD,Vídeo,Cliente_107,Brasília,3,239.96,719.88
+2024-01-09,SSD 1TB,Armazenamento,Cliente_076,Recife,7,627.23,4390.61
+2024-01-15,Notebook Pro X,Notebook,Cliente_076,Brasília,7,8661.77,60632.39
+2024-09-17,Notebook Pro X,Notebook,Cliente_093,Brasília,2,7284.34,14568.68
+2024-07-04,Notebook Pro X,Notebook,,Curitiba,6,7965.79,47794.74
+2024-08-27,Dock Station,Acessórios,Cliente_109,Brasília,7,388.46,2719.22
+2024-11-08,Dock Station,Acessórios,Cliente_076,Recife,1,475.59,475.59
+2024-09-11,Webcam HD,Vídeo,Cliente_033,Campinas,1,241.33,241.33
+2024-08-14,Notebook Pro X,Notebook,Cliente_117,Campinas,6,8204.71,49228.26
+2024-10-16,Notebook Pro X,Notebook,Cliente_060,Rio de Janeiro,1,8940.76,8940.76
+2024-03-26,Cadeira Office,Móveis,Cliente_145,Curitiba,1,1264.48,1264.48
+2024-12-15,Monitor 24,Monitor,Cliente_136,Brasília,3,1211.73,3635.19
+2024-05-04,Monitor 24,Monitor,Cliente_101,Brasília,6,1231.42,7388.52
+2024-08-10,SSD 1TB,Armazenamento,Cliente_036,Curitiba,4,481.86,1927.44
+2024-06-22,Monitor 24,Monitor,Cliente_161,Brasília,2,1042.73,2085.46
+2024-05-29,SSD 1TB,Armazenamento,Cliente_189,Porto Alegre,7,541.06,3787.42
+2024-04-30,Headset Pro,Áudio,Cliente_025,Belo Horizonte,6,372.79,2236.74
+2024-05-23,SSD 1TB,Armazenamento,Cliente_085,Rio de Janeiro,5,588.35,2941.75
+2024-03-11,Headset Pro,Áudio,Cliente_161,Recife,4,373.33,1493.32
+2024-01-06,Notebook Pro X,Notebook,Cliente_115,Belo Horizonte,2,9726.52,19453.04
+2024-05-29,Cadeira Office,Móveis,Cliente_161,São Paulo,1,1179.99,1179.99
+2024-10-17,Cadeira Office,Móveis,Cliente_131,Porto Alegre,2,1340.09,2680.18
+2024-03-25,Impressora Laser,Impressão,Cliente_028,Brasília,7,1514.6,10602.2
+2024-08-06,Teclado Mecânico,Periférico,Cliente_185,Porto Alegre,3,330.25,990.75
+2024-08-04,Teclado Mecânico,Periférico,Cliente_154,Recife,2,368.25,736.5
+2024-11-21,Notebook Pro X,Notebook,Cliente_048,Curitiba,5,8752.4,43762.0
+2024-09-19,Monitor 24,Monitor,Cliente_077,São Paulo,-4,1175.85,-4703.4
+2024-05-16,Cadeira Office,Móveis,Cliente_077,Fortaleza,3,1336.27,4008.81
+2024-01-25,Monitor 24,Monitor,Cliente_173,Curitiba,2,1026.66,2053.32
+2024-02-15,Impressora Laser,Impressão,Cliente_123,Campinas,1,1418.57,1418.57
+2024-09-27,Notebook Pro X,Notebook,Cliente_148,Brasília,6,7804.75,46828.5
+2024-11-14,Cadeira Office,Móveis,Cliente_161,Salvador,3,1271.87,3815.61
+2024-04-09,Cadeira Office,Móveis,Cliente_078,Belo Horizonte,4,1140.82,4563.28
+2024-09-30,Notebook Pro X,Notebook,Cliente_184,Brasília,5,8324.82,41624.1
+2024-08-16,Mouse Gamer,Periférico,Cliente_094,Salvador,2,200.79,401.58
+2024-08-22,Webcam HD,Vídeo,Cliente_081,Belo Horizonte,5,242.72,1213.6
+2024-02-20,Mouse Gamer,Periférico,Cliente_124,Salvador,2,163.17,326.34
+2024-10-29,Teclado Mecânico,Periférico,Cliente_105,Fortaleza,2,344.76,689.52
+2024-05-23,Teclado Mecânico,Periférico,Cliente_104,Campinas,5,374.9,1874.5
+2024-04-09,Headset Pro,Áudio,Cliente_002,Fortaleza,1,421.23,421.23
+2024-08-02,Monitor 24,Monitor,Cliente_184,Campinas,1,969.74,969.74
+2024-04-21,Impressora Laser,Impressão,Cliente_161,,2,1627.26,3254.52
+2024-04-22,Cadeira Office,Móveis,,Rio de Janeiro,2,1067.42,2134.84
+2024-06-05,Monitor 24,Monitor,Cliente_070,Brasília,4,951.45,3805.8
+2024-09-29,Notebook Pro X,Notebook,Cliente_017,Porto Alegre,2,9690.98,19381.96
+2024-03-22,Monitor 24,Monitor,Cliente_028,Fortaleza,3,1178.01,3534.03
+2024-01-10,Mouse Gamer,Periférico,Cliente_158,Salvador,5,181.56,907.8
+2024-11-18,Notebook Pro X,Notebook,Cliente_099,Curitiba,5,8580.74,42903.7
+2024-11-03,Webcam HD,Vídeo,Cliente_150,,7,285.99,2001.93
+2024-06-13,Teclado Mecânico,Periférico,Cliente_111,Fortaleza,7,310.94,2176.58
+2024-12-07,Notebook Pro X,Notebook,Cliente_022,,-3,7856.71,-23570.13
+2024-05-19,Teclado Mecânico,Periférico,Cliente_039,Campinas,1,387.68,387.68
+2024-05-19,Cadeira Office,Móveis,Cliente_167,Rio de Janeiro,7,1252.59,8768.13
+2024-01-26,Mouse Gamer,Periférico,Cliente_182,Campinas,3,181.09,543.27
+2024-02-28,Mouse Gamer,Periférico,Cliente_045,Belo Horizonte,3,199.92,599.76
+2024-08-11,Teclado Mecânico,Periférico,Cliente_081,Belo Horizonte,3,321.81,965.43
+2024-09-21,SSD 1TB,Armazenamento,Cliente_180,São Paulo,1,470.11,470.11
+2024-04-30,Mouse Gamer,Periférico,Cliente_076,Fortaleza,2,203.05,406.1
+2024-04-04,Notebook Pro X,Notebook,Cliente_187,Salvador,3,9645.73,28937.19
+2024-05-03,Mouse Gamer,Periférico,Cliente_030,Curitiba,6,183.36,1100.16
+2024-06-03,SSD 1TB,Armazenamento,Cliente_142,Belo Horizonte,5,545.76,2728.8
+2024-05-21,Cadeira Office,Móveis,Cliente_033,Salvador,2,1100.37,2200.74
+2024-08-25,Dock Station,Acessórios,Cliente_014,Campinas,4,513.48,2053.92
+2024-02-04,Webcam HD,Vídeo,Cliente_057,São Paulo,7,264.16,1849.12
+2024-11-06,Dock Station,Acessórios,Cliente_094,Recife,6,472.77,2836.62
+2024-04-24,SSD 1TB,Armazenamento,Cliente_157,Salvador,5,603.69,3018.45
+2024-08-08,Dock Station,Acessórios,Cliente_067,Recife,5,398.0,1990.0
+2024-12-29,Dock Station,Acessórios,Cliente_074,Fortaleza,7,452.88,3170.16
+2024-07-24,Monitor 24,Monitor,Cliente_023,Porto Alegre,7,977.2,6840.4
+2024-11-13,Notebook Pro X,Notebook,Cliente_057,Curitiba,5,7720.4,38602.0
+2024-02-17,Dock Station,Acessórios,Cliente_093,Brasília,2,419.78,839.56
+2024-09-27,SSD 1TB,Armazenamento,Cliente_151,Recife,4,588.41,2353.64
+2024-06-13,Impressora Laser,Impressão,Cliente_008,Rio de Janeiro,4,1598.41,6393.64
+2024-01-24,Cadeira Office,Móveis,Cliente_083,Fortaleza,3,1046.87,3140.61
+2024-07-08,Notebook Pro X,Notebook,Cliente_108,Porto Alegre,3,9754.12,29262.36
+2024-12-25,Headset Pro,Áudio,Cliente_175,Brasília,4,402.88,1611.52
+2024-11-24,SSD 1TB,Armazenamento,Cliente_157,Recife,5,547.75,2738.75
+2024-11-26,Notebook Pro X,Notebook,Cliente_093,Porto Alegre,4,9271.74,37086.96
+2024-06-10,Notebook Pro X,Notebook,Cliente_118,,5,7507.11,37535.55
+2024-02-04,Cadeira Office,Móveis,Cliente_148,Rio de Janeiro,2,1048.59,2097.18
+2024-07-27,Monitor 24,Monitor,Cliente_114,Rio de Janeiro,1,1110.29,1110.29
+2024-08-02,Dock Station,Acessórios,Cliente_089,Rio de Janeiro,6,516.81,3100.86
+2024-06-30,Headset Pro,Áudio,Cliente_151,Salvador,5,425.02,2125.1
+2024-03-22,Webcam HD,Vídeo,Cliente_004,Brasília,2,313.65,627.3
+2024-09-27,Mouse Gamer,Periférico,Cliente_163,Belo Horizonte,4,164.68,658.72
+2024-08-28,Headset Pro,Áudio,Cliente_012,São Paulo,2,425.01,850.02
+2024-06-06,Impressora Laser,Impressão,Cliente_180,Salvador,1,1550.74,1550.74
+2024-03-05,Impressora Laser,Impressão,Cliente_029,Curitiba,1,1488.72,1488.72
+2024-04-29,Notebook Pro X,Notebook,Cliente_089,Salvador,1,9194.22,9194.22
+2024-11-23,Notebook Pro X,Notebook,Cliente_004,Brasília,1,7774.6,7774.6
+2024-05-21,Teclado Mecânico,Periférico,Cliente_057,Porto Alegre,5,366.08,1830.4
+2024-12-13,SSD 1TB,Armazenamento,Cliente_055,Brasília,6,537.24,3223.44
+2024-02-10,Mouse Gamer,Periférico,Cliente_010,Porto Alegre,6,186.26,1117.56
+2024-02-24,Cadeira Office,Móveis,Cliente_180,São Paulo,6,1369.84,8219.04
+2024-01-24,Cadeira Office,Móveis,Cliente_055,Salvador,5,1137.63,5688.15
+2024-10-09,Notebook Pro X,Notebook,Cliente_053,Belo Horizonte,4,9710.1,38840.4
+2024-08-16,Cadeira Office,Móveis,Cliente_099,Fortaleza,5,1122.21,5611.05
+2024-03-10,Webcam HD,Vídeo,Cliente_027,Fortaleza,7,311.41,2179.87
+2024-06-09,Dock Station,Acessórios,Cliente_014,Rio de Janeiro,6,462.59,2775.54
+2024-05-22,Impressora Laser,Impressão,Cliente_169,São Paulo,3,1835.8,5507.4
+2024-09-28,Notebook Pro X,Notebook,Cliente_048,Rio de Janeiro,7,9006.25,63043.75
+2024-01-17,Cadeira Office,Móveis,Cliente_064,São Paulo,4,1128.46,4513.84
+2024-04-30,Cadeira Office,Móveis,Cliente_139,Brasília,6,1115.52,6693.12
+2024-09-19,Cadeira Office,Móveis,Cliente_142,Porto Alegre,5,1227.79,6138.95
+2024-05-17,Notebook Pro X,Notebook,Cliente_171,Fortaleza,3,8434.35,25303.05
+2024-05-31,Webcam HD,Vídeo,Cliente_154,Rio de Janeiro,5,281.27,1406.35
+2024-03-26,Webcam HD,Vídeo,Cliente_068,Belo Horizonte,4,280.64,1122.56
+2024-02-24,Notebook Pro X,Notebook,Cliente_193,Curitiba,3,7289.89,21869.67
+2024-09-26,Monitor 24,Monitor,Cliente_183,Salvador,3,959.94,2879.82
+2024-09-03,Dock Station,Acessórios,Cliente_036,,6,391.85,2351.1
+2024-08-29,Webcam HD,Vídeo,Cliente_049,São Paulo,6,308.0,1848.0
+2024-05-13,Monitor 24,Monitor,Cliente_090,Fortaleza,6,994.78,5968.68
+2024-08-20,SSD 1TB,Armazenamento,Cliente_014,Brasília,4,528.37,2113.48
+2024-05-08,Impressora Laser,Impressão,Cliente_036,Rio de Janeiro,3,1511.5,4534.5
+2024-09-05,Monitor 24,Monitor,Cliente_070,Rio de Janeiro,5,1203.97,6019.85
+2024-05-21,Webcam HD,Vídeo,Cliente_103,Porto Alegre,2,290.05,580.1
+2024-05-25,Cadeira Office,Móveis,,São Paulo,7,1201.11,8407.77
+2024-01-31,Cadeira Office,Móveis,Cliente_140,Porto Alegre,1,1082.39,1082.39
+2024-02-29,Cadeira Office,Móveis,Cliente_081,Rio de Janeiro,3,1038.68,3116.04
+2024-08-01,Webcam HD,Vídeo,Cliente_120,Rio de Janeiro,2,321.17,642.34
+2024-05-26,SSD 1TB,Armazenamento,Cliente_048,Rio de Janeiro,6,618.35,3710.1
+2024-11-05,Impressora Laser,Impressão,Cliente_103,Fortaleza,7,1565.22,10956.54
+2024-03-15,Notebook Pro X,Notebook,Cliente_090,Campinas,5,8515.57,42577.85
+2024-10-14,Notebook Pro X,Notebook,Cliente_080,São Paulo,4,8839.63,35358.52
+2024-06-05,Headset Pro,Áudio,Cliente_166,,6,369.27,2215.62
+2024-08-14,Cadeira Office,Móveis,Cliente_068,Brasília,7,1336.62,9356.34
+2024-03-05,Impressora Laser,Impressão,Cliente_114,Campinas,5,1374.66,6873.3
+2024-05-10,Dock Station,Acessórios,Cliente_039,São Paulo,1,396.35,396.35
+2024-06-15,Monitor 24,Monitor,Cliente_135,Belo Horizonte,7,971.06,6797.42
+2024-03-04,Headset Pro,Áudio,Cliente_104,Belo Horizonte,6,412.74,2476.44
+2024-01-21,Impressora Laser,Impressão,Cliente_137,Belo Horizonte,2,1562.45,3124.9
+2024-11-14,Monitor 24,Monitor,Cliente_018,,6,1110.76,6664.56
+2024-01-20,Cadeira Office,Móveis,Cliente_054,São Paulo,2,1128.69,2257.38
+2024-05-15,Mouse Gamer,Periférico,Cliente_031,Curitiba,1,190.37,190.37
+2024-08-21,Teclado Mecânico,Periférico,,Brasília,3,327.16,981.48
+2024-01-23,SSD 1TB,Armazenamento,Cliente_033,Campinas,1,546.76,546.76
+2024-05-24,Webcam HD,Vídeo,Cliente_150,Porto Alegre,1,260.67,260.67
+2024-03-09,Impressora Laser,Impressão,Cliente_196,São Paulo,4,1392.45,5569.8
+2024-11-12,SSD 1TB,Armazenamento,,Recife,4,607.41,2429.64
+2024-10-27,Mouse Gamer,Periférico,Cliente_155,Brasília,3,184.83,554.49
+2024-11-08,Notebook Pro X,Notebook,Cliente_114,Porto Alegre,7,7388.22,51717.54
+2024-10-11,Webcam HD,Vídeo,Cliente_003,Fortaleza,4,254.06,1016.24
+2024-01-01,Headset Pro,Áudio,Cliente_027,Campinas,5,478.15,2390.75
+2024-03-28,Dock Station,Acessórios,Cliente_094,Fortaleza,7,513.41,3593.87
+2024-10-25,Notebook Pro X,Notebook,Cliente_101,Fortaleza,2,7736.43,15472.86
+2024-01-19,Impressora Laser,Impressão,Cliente_021,,7,1366.37,9564.59
+2024-05-14,Monitor 24,Monitor,Cliente_102,Belo Horizonte,6,1232.45,7394.7
+2024-12-17,Impressora Laser,Impressão,Cliente_181,Belo Horizonte,4,1769.44,7077.76
+2024-09-29,Notebook Pro X,Notebook,Cliente_060,Rio de Janeiro,3,9503.67,28511.01
+2024-11-30,Dock Station,Acessórios,Cliente_173,Recife,3,391.37,1174.11
+2024-08-14,Impressora Laser,Impressão,Cliente_047,Campinas,7,1472.42,10306.94
+2024-10-17,Dock Station,Acessórios,Cliente_014,Fortaleza,2,468.02,936.04
+2024-08-27,Teclado Mecânico,Periférico,Cliente_193,Belo Horizonte,5,399.53,1997.65
+2024-12-09,Notebook Pro X,Notebook,Cliente_056,Curitiba,2,8868.71,17737.42
+2024-12-02,Teclado Mecânico,Periférico,Cliente_130,Brasília,1,386.61,386.61
+2024-04-30,Mouse Gamer,Periférico,Cliente_076,Fortaleza,2,203.05,406.1
+2024-11-12,Notebook Pro X,Notebook,Cliente_027,São Paulo,6,8763.03,52578.18
+2024-04-24,Impressora Laser,Impressão,Cliente_027,Campinas,5,1639.96,8199.8
+2024-01-23,Impressora Laser,Impressão,Cliente_080,Porto Alegre,4,1818.24,7272.96
+2024-05-15,Impressora Laser,Impressão,Cliente_071,Brasília,5,1561.34,7806.7
+2024-06-04,Notebook Pro X,Notebook,Cliente_099,Fortaleza,7,8568.91,59982.37
+2024-12-30,Notebook Pro X,Notebook,Cliente_130,Belo Horizonte,1,7602.62,7602.62
+2024-03-26,Monitor 24,Monitor,Cliente_135,Campinas,2,1153.45,2306.9
+2024-01-15,Monitor 24,Monitor,Cliente_082,Rio de Janeiro,2,1154.55,2309.1
+2024-12-21,Notebook Pro X,Notebook,Cliente_192,Belo Horizonte,5,7601.0,38005.0
+2024-04-06,Mouse Gamer,Periférico,,Belo Horizonte,1,188.19,188.19
+2024-08-11,Notebook Pro X,Notebook,Cliente_200,Curitiba,6,8930.92,53585.52
+2024-12-22,Monitor 24,Monitor,Cliente_151,São Paulo,6,1012.85,6077.1
+2024-01-12,Dock Station,Acessórios,Cliente_158,Campinas,4,419.72,1678.88
+2024-11-17,Dock Station,Acessórios,Cliente_113,São Paulo,3,424.61,1273.83
+2024-04-17,Impressora Laser,Impressão,Cliente_159,Recife,1,1422.0,1422.0
+2024-04-08,Teclado Mecânico,Periférico,Cliente_116,Fortaleza,4,351.03,1404.12
+2024-02-16,SSD 1TB,Armazenamento,Cliente_097,Recife,2,620.72,1241.44
+2024-09-13,Notebook Pro X,Notebook,Cliente_016,Brasília,4,7819.05,31276.2
+2024-11-01,Headset Pro,Áudio,Cliente_075,Rio de Janeiro,1,399.34,399.34
+2024-05-19,Dock Station,Acessórios,,Recife,3,497.19,1491.57
+2024-01-04,Dock Station,Acessórios,Cliente_163,Fortaleza,3,437.08,1311.24
+2024-08-25,Cadeira Office,Móveis,Cliente_170,Rio de Janeiro,4,1093.45,4373.8
+2024-05-30,SSD 1TB,Armazenamento,Cliente_141,,1,496.46,496.46
+2024-05-23,Webcam HD,Vídeo,Cliente_032,Brasília,2,258.96,517.92
+2024-03-31,SSD 1TB,Armazenamento,,,7,561.46,3930.22
+2024-01-10,Cadeira Office,Móveis,Cliente_106,Salvador,4,1371.82,5487.28
+2024-12-07,Notebook Pro X,Notebook,Cliente_091,São Paulo,3,7308.76,21926.28
+2024-07-29,Teclado Mecânico,Periférico,Cliente_134,Fortaleza,1,399.04,399.04
+2024-12-27,Mouse Gamer,Periférico,,Curitiba,4,177.73,710.92
+2024-03-21,Dock Station,Acessórios,Cliente_084,Salvador,7,418.04,2926.28
+2024-06-13,Cadeira Office,Móveis,Cliente_026,Fortaleza,7,1246.04,8722.28
+2024-11-11,Notebook Pro X,Notebook,Cliente_175,Curitiba,6,7559.9,45359.4
+2024-12-12,Webcam HD,Vídeo,Cliente_160,Porto Alegre,6,315.67,1894.02
+2024-02-28,Mouse Gamer,Periférico,Cliente_038,Rio de Janeiro,-2,187.38,-374.76
+2024-02-29,Cadeira Office,Móveis,Cliente_189,Fortaleza,4,1332.68,5330.72
+2024-08-16,Notebook Pro X,Notebook,Cliente_176,Belo Horizonte,3,9763.37,29290.11
+2024-08-12,Teclado Mecânico,Periférico,Cliente_042,Fortaleza,5,335.62,1678.1
+2024-07-05,Notebook Pro X,Notebook,Cliente_008,Porto Alegre,4,7775.34,31101.36
+2024-10-21,Mouse Gamer,Periférico,Cliente_035,Curitiba,1,199.63,199.63
+2024-03-20,Mouse Gamer,Periférico,Cliente_041,Belo Horizonte,7,163.33,1143.31
+2024-04-17,Impressora Laser,Impressão,,Recife,1,1422.0,1422.0
+2024-09-24,Notebook Pro X,Notebook,Cliente_160,Belo Horizonte,6,8813.49,52880.94
+2024-03-04,Notebook Pro X,Notebook,Cliente_129,São Paulo,2,7829.57,15659.14
+2024-12-10,Notebook Pro X,Notebook,Cliente_083,Belo Horizonte,6,9084.55,54507.3
+2024-03-04,Mouse Gamer,Periférico,Cliente_134,Campinas,2,183.66,367.32
+2024-08-08,Webcam HD,Vídeo,Cliente_148,Recife,5,273.56,1367.8
+2024-09-16,Notebook Pro X,Notebook,Cliente_148,Recife,6,9213.68,55282.08
+2024-02-18,Headset Pro,Áudio,Cliente_158,Recife,3,424.02,1272.06
+2024-05-03,Mouse Gamer,Periférico,Cliente_040,Porto Alegre,7,165.73,1160.11
+2024-04-03,Webcam HD,Vídeo,Cliente_070,Rio de Janeiro,7,269.79,1888.53
+2024-03-28,SSD 1TB,Armazenamento,Cliente_072,Fortaleza,7,591.89,4143.23
+2024-11-10,Notebook Pro X,Notebook,Cliente_176,Campinas,1,8495.0,8495.0
+2024-03-27,SSD 1TB,Armazenamento,Cliente_179,,1,619.43,619.43
+2024-09-05,Dock Station,Acessórios,Cliente_120,Recife,4,499.17,1996.68
+2024-08-30,Cadeira Office,Móveis,Cliente_002,Belo Horizonte,7,1270.25,8891.75
+2024-10-20,Webcam HD,Vídeo,Cliente_071,Fortaleza,3,290.77,872.31
+2024-03-15,Headset Pro,Áudio,Cliente_175,Fortaleza,5,399.23,1996.15
+2024-04-27,Dock Station,Acessórios,Cliente_195,Belo Horizonte,7,387.95,2715.65
+2024-05-15,Notebook Pro X,Notebook,Cliente_017,Campinas,2,7622.89,15245.78
+2024-06-25,Teclado Mecânico,Periférico,Cliente_036,São Paulo,1,344.63,344.63
+2024-09-23,Notebook Pro X,Notebook,Cliente_169,Campinas,5,9623.14,48115.7
+2024-02-28,Dock Station,Acessórios,Cliente_137,Campinas,3,481.92,1445.76
+2024-03-08,Monitor 24,Monitor,Cliente_068,Porto Alegre,5,1168.39,5841.95
+2024-08-25,Impressora Laser,Impressão,Cliente_113,São Paulo,6,1772.72,10636.32
+2024-12-16,Notebook Pro X,Notebook,Cliente_028,Campinas,5,8822.47,44112.35
+2024-02-05,Impressora Laser,Impressão,Cliente_141,Curitiba,7,1594.9,11164.3
+2024-06-08,SSD 1TB,Armazenamento,Cliente_135,,4,476.39,1905.56
+2024-02-27,Headset Pro,Áudio,Cliente_098,Campinas,5,414.77,2073.85
+2024-09-03,Notebook Pro X,Notebook,Cliente_155,Campinas,6,7676.06,46056.36
+2024-01-16,SSD 1TB,Armazenamento,Cliente_083,Recife,7,600.58,4204.06
+2024-05-04,SSD 1TB,Armazenamento,,Rio de Janeiro,4,627.46,2509.84
+2024-06-23,Monitor 24,Monitor,Cliente_158,São Paulo,1,1079.6,1079.6
+2024-05-13,Mouse Gamer,Periférico,Cliente_155,Belo Horizonte,3,183.54,550.62
+2024-09-22,Notebook Pro X,Notebook,Cliente_159,Fortaleza,6,8239.6,49437.6
+2024-05-21,Cadeira Office,Móveis,Cliente_016,Recife,4,1374.27,5497.08
+2024-01-11,Teclado Mecânico,Periférico,Cliente_200,Brasília,2,346.17,692.34
+2024-04-19,Monitor 24,Monitor,Cliente_060,Salvador,2,1202.14,2404.28
+2024-09-29,Mouse Gamer,Periférico,Cliente_116,Campinas,2,158.98,317.96
+2024-02-24,Impressora Laser,Impressão,Cliente_137,Salvador,3,1611.77,4835.31
+2024-08-25,Impressora Laser,Impressão,,Belo Horizonte,2,1743.72,3487.44
+2024-12-31,Impressora Laser,Impressão,Cliente_088,Rio de Janeiro,1,1716.81,1716.81
+2024-10-04,Notebook Pro X,Notebook,Cliente_147,Recife,4,9520.82,38083.28
+2024-09-25,Webcam HD,Vídeo,Cliente_122,Belo Horizonte,7,277.5,1942.5
+2024-07-19,Monitor 24,Monitor,Cliente_142,,6,974.68,5848.08
+2024-09-10,SSD 1TB,Armazenamento,Cliente_022,Campinas,3,525.39,1576.17
+2024-02-23,Dock Station,Acessórios,Cliente_172,Rio de Janeiro,5,474.92,2374.6
+2024-10-12,Cadeira Office,Móveis,Cliente_021,,2,1056.23,2112.46
+2024-02-08,Notebook Pro X,Notebook,Cliente_165,,6,8283.86,49703.16
+2024-03-12,Impressora Laser,Impressão,Cliente_092,Fortaleza,7,1787.4,12511.8
+2024-05-23,Webcam HD,Vídeo,Cliente_032,Brasília,2,258.96,517.92
+2024-03-28,SSD 1TB,Armazenamento,Cliente_109,Belo Horizonte,6,514.25,3085.5
+2024-11-11,Dock Station,Acessórios,Cliente_096,,7,435.85,3050.95
+2024-02-17,Headset Pro,Áudio,Cliente_064,Salvador,2,421.55,843.1
+2024-06-18,Notebook Pro X,Notebook,Cliente_073,Salvador,2,8813.02,17626.04
+2024-07-17,Mouse Gamer,Periférico,Cliente_066,Campinas,7,165.5,1158.5
+2024-07-24,SSD 1TB,Armazenamento,Cliente_038,Brasília,3,476.07,1428.21
+2024-02-11,Mouse Gamer,Periférico,Cliente_057,Brasília,1,163.07,163.07
+2024-07-08,Notebook Pro X,Notebook,,Campinas,3,7997.44,23992.32
+2024-06-18,Impressora Laser,Impressão,Cliente_172,Campinas,4,1420.36,5681.44
+2024-08-26,Teclado Mecânico,Periférico,Cliente_056,Recife,2,354.6,709.2
+2024-08-28,Teclado Mecânico,Periférico,Cliente_084,Campinas,3,375.3,1125.9
+2024-06-16,Mouse Gamer,Periférico,Cliente_105,Salvador,1,163.05,163.05
+2024-01-30,Notebook Pro X,Notebook,Cliente_026,Curitiba,1,7440.52,7440.52
+2024-01-28,Dock Station,Acessórios,Cliente_131,Curitiba,6,444.88,2669.28
+2024-12-17,SSD 1TB,Armazenamento,Cliente_163,Fortaleza,5,508.66,2543.3
+2024-11-03,Teclado Mecânico,Periférico,Cliente_168,Brasília,1,318.89,318.89
+2024-02-28,Cadeira Office,Móveis,Cliente_031,Curitiba,1,1364.38,1364.38
+2024-01-07,Notebook Pro X,Notebook,Cliente_126,Curitiba,4,8648.95,34595.8
+2024-11-15,Notebook Pro X,Notebook,Cliente_060,Recife,6,8925.46,53552.76
+2024-06-09,Webcam HD,Vídeo,Cliente_025,Porto Alegre,2,243.73,487.46
+2024-11-19,Notebook Pro X,Notebook,Cliente_134,Salvador,3,7508.02,22524.06
+2024-08-04,Notebook Pro X,Notebook,Cliente_014,Salvador,4,7521.71,30086.84
+2024-05-04,Monitor 24,Monitor,Cliente_138,Recife,6,1130.7,6784.2
+2024-10-24,Notebook Pro X,Notebook,Cliente_045,Salvador,7,7823.42,54763.94
+2024-05-12,Dock Station,Acessórios,Cliente_044,São Paulo,2,476.48,952.96
+2024-06-11,Impressora Laser,Impressão,Cliente_070,Rio de Janeiro,4,1818.65,7274.6
+2024-10-12,Mouse Gamer,Periférico,Cliente_045,Curitiba,3,156.38,469.14
+2024-01-06,Mouse Gamer,Periférico,Cliente_065,Brasília,5,160.61,803.05
+2024-04-15,Teclado Mecânico,Periférico,Cliente_058,Salvador,2,314.19,628.38
+2024-12-01,Webcam HD,Vídeo,Cliente_105,Campinas,2,259.09,518.18
+2024-02-27,Monitor 24,Monitor,Cliente_050,Campinas,2,959.69,1919.38
+2024-04-24,Cadeira Office,Móveis,Cliente_047,Belo Horizonte,3,1092.23,3276.69
+2024-11-17,Headset Pro,Áudio,Cliente_175,Rio de Janeiro,5,452.14,2260.7
+2024-05-01,Monitor 24,Monitor,Cliente_119,São Paulo,4,1257.08,5028.32
+2024-12-17,Notebook Pro X,Notebook,Cliente_160,Salvador,7,8529.67,59707.69
+2024-08-30,Monitor 24,Monitor,Cliente_145,Campinas,4,1258.44,5033.76
+2024-08-22,Mouse Gamer,Periférico,Cliente_059,Recife,7,160.13,1120.91
+2024-06-02,Teclado Mecânico,Periférico,Cliente_136,Recife,7,374.31,2620.17
+2024-08-23,Monitor 24,Monitor,Cliente_060,Curitiba,3,1151.72,3455.16
+2024-06-13,Cadeira Office,Móveis,Cliente_185,Recife,3,1082.46,3247.38
+2024-05-23,Headset Pro,Áudio,Cliente_172,Porto Alegre,7,444.05,3108.35
+2024-12-23,Impressora Laser,Impressão,Cliente_072,Recife,3,1474.31,4422.93
+2024-02-14,Dock Station,Acessórios,Cliente_033,Rio de Janeiro,-5,395.66,-1978.3
+2024-08-30,Cadeira Office,Móveis,,São Paulo,1,1158.82,1158.82
+2024-12-31,Dock Station,Acessórios,Cliente_153,Recife,1,412.69,412.69
+2024-11-09,Notebook Pro X,Notebook,Cliente_073,Salvador,7,8605.31,60237.17
+2024-02-01,SSD 1TB,Armazenamento,Cliente_157,Salvador,7,591.79,4142.53
+2024-05-10,SSD 1TB,Armazenamento,Cliente_096,Curitiba,7,505.79,3540.53
+2024-03-01,Headset Pro,Áudio,Cliente_037,Salvador,1,392.14,392.14
+2024-09-24,Teclado Mecânico,Periférico,Cliente_004,Belo Horizonte,-2,389.47,-778.94
+2024-10-17,Teclado Mecânico,Periférico,Cliente_158,Recife,3,391.43,1174.29
+2024-09-23,Notebook Pro X,Notebook,Cliente_095,Porto Alegre,6,7551.24,45307.44
+2024-09-01,Notebook Pro X,Notebook,Cliente_151,Recife,6,8158.01,48948.06
+2024-11-07,Notebook Pro X,Notebook,Cliente_156,Fortaleza,5,7618.96,38094.8
+2024-10-03,Notebook Pro X,Notebook,Cliente_187,Curitiba,2,8315.09,16630.18
+2024-12-11,Dock Station,Acessórios,Cliente_161,Rio de Janeiro,1,438.5,438.5
+2024-05-05,Notebook Pro X,Notebook,Cliente_134,São Paulo,5,9093.38,45466.9
+2024-05-02,Webcam HD,Vídeo,Cliente_103,Brasília,6,296.23,1777.38
+2024-08-09,Notebook Pro X,Notebook,Cliente_096,Campinas,1,8565.68,8565.68
+2024-08-24,Teclado Mecânico,Periférico,,Rio de Janeiro,3,319.27,957.81
+2024-02-06,Webcam HD,Vídeo,Cliente_084,Curitiba,5,309.95,1549.75
+2024-08-23,Teclado Mecânico,Periférico,Cliente_040,Rio de Janeiro,2,331.81,663.62
+2024-06-20,Dock Station,Acessórios,Cliente_061,Brasília,3,484.86,1454.58
+2024-04-28,Cadeira Office,Móveis,,Porto Alegre,5,1132.45,5662.25
+2024-10-14,Cadeira Office,Móveis,Cliente_129,Salvador,5,1260.45,6302.25
+2024-06-18,Notebook Pro X,Notebook,Cliente_030,Salvador,5,9187.09,45935.45
+2024-11-10,Monitor 24,Monitor,Cliente_181,Salvador,7,935.37,6547.59
+2024-03-30,Teclado Mecânico,Periférico,Cliente_108,Salvador,4,359.7,1438.8
+2024-03-19,Impressora Laser,Impressão,Cliente_152,Rio de Janeiro,7,1656.89,11598.23
+2024-01-05,Dock Station,Acessórios,Cliente_020,Campinas,6,470.81,2824.86
+2024-07-21,Dock Station,Acessórios,Cliente_124,,6,480.16,2880.96
+2024-04-15,Webcam HD,Vídeo,Cliente_039,Recife,6,271.03,1626.18
+2024-03-14,Cadeira Office,Móveis,Cliente_110,São Paulo,3,1118.9,3356.7
+2024-02-02,Headset Pro,Áudio,Cliente_034,Campinas,3,404.03,1212.09
+2024-01-15,Impressora Laser,Impressão,Cliente_198,Fortaleza,4,1469.05,5876.2
+2024-04-21,Dock Station,Acessórios,Cliente_046,Porto Alegre,6,428.04,2568.24
+2024-12-26,Notebook Pro X,Notebook,Cliente_104,Recife,2,8793.27,17586.54
+2024-03-26,Teclado Mecânico,Periférico,Cliente_147,Curitiba,7,315.81,2210.67
+2024-08-16,Notebook Pro X,Notebook,Cliente_181,Fortaleza,7,8205.03,57435.21
+2024-03-14,Dock Station,Acessórios,Cliente_062,Curitiba,1,500.92,500.92
+2024-12-27,Dock Station,Acessórios,Cliente_002,Rio de Janeiro,4,389.45,1557.8
+2024-02-06,Headset Pro,Áudio,Cliente_073,Rio de Janeiro,1,445.16,445.16
+2024-05-15,SSD 1TB,Armazenamento,Cliente_060,Fortaleza,1,482.54,482.54
+2024-01-28,Cadeira Office,Móveis,Cliente_065,Belo Horizonte,1,1323.38,1323.38
+2024-11-18,Monitor 24,Monitor,Cliente_148,Recife,7,1226.1,8582.7
+2024-09-10,Notebook Pro X,Notebook,Cliente_141,Salvador,7,7497.54,52482.78
+2024-11-02,Mouse Gamer,Periférico,Cliente_125,Campinas,1,206.41,206.41
+2024-09-29,Notebook Pro X,Notebook,Cliente_190,Curitiba,1,7289.36,7289.36
+2024-02-05,Teclado Mecânico,Periférico,Cliente_011,Recife,4,352.45,1409.8
+2024-06-29,Webcam HD,Vídeo,,Curitiba,4,246.85,987.4
+2024-09-22,Notebook Pro X,Notebook,Cliente_100,Salvador,5,7316.64,36583.2
+2024-05-03,Impressora Laser,Impressão,Cliente_179,Recife,2,1426.85,2853.7
+2024-06-01,Headset Pro,Áudio,Cliente_023,Brasília,-2,476.59,-953.18
+2024-11-10,Teclado Mecânico,Periférico,Cliente_064,Porto Alegre,4,381.97,1527.88
+2024-08-15,SSD 1TB,Armazenamento,Cliente_150,Campinas,2,577.68,1155.36
+2024-12-13,Monitor 24,Monitor,Cliente_003,São Paulo,6,1046.08,6276.48
+2024-10-26,Mouse Gamer,Periférico,Cliente_177,São Paulo,4,157.0,628.0
+2024-09-09,Cadeira Office,Móveis,Cliente_068,Belo Horizonte,4,1378.13,5512.52
+2024-09-16,Cadeira Office,Móveis,Cliente_002,São Paulo,4,1230.88,4923.52
+2024-08-10,Impressora Laser,Impressão,Cliente_041,Salvador,1,1659.18,1659.18
+2024-12-17,Notebook Pro X,Notebook,Cliente_001,Salvador,3,7760.26,23280.78
+2024-03-21,Monitor 24,Monitor,Cliente_128,Recife,7,1172.91,8210.37
+2024-08-28,Cadeira Office,Móveis,Cliente_120,Salvador,2,1070.08,2140.16
+2024-05-26,SSD 1TB,Armazenamento,Cliente_128,Fortaleza,5,629.41,3147.05
+2024-09-22,Cadeira Office,Móveis,Cliente_198,Recife,1,1345.21,1345.21
+2024-08-06,Impressora Laser,Impressão,Cliente_133,Brasília,1,1374.04,1374.04
+2024-09-19,Dock Station,Acessórios,Cliente_180,Brasília,6,423.44,2540.64
+2024-02-17,Headset Pro,Áudio,Cliente_148,Porto Alegre,2,415.21,830.42
+2024-10-02,Notebook Pro X,Notebook,Cliente_119,Porto Alegre,1,7680.04,7680.04
+2024-10-21,Notebook Pro X,Notebook,Cliente_116,Campinas,5,8481.69,42408.45
+2024-11-09,Notebook Pro X,Notebook,,Rio de Janeiro,4,9452.23,37808.92
+2024-10-03,Notebook Pro X,Notebook,Cliente_152,Brasília,3,7738.35,23215.05
+2024-06-06,Monitor 24,Monitor,Cliente_018,Fortaleza,1,964.11,964.11
+2024-12-31,Monitor 24,Monitor,Cliente_194,Brasília,5,1063.45,5317.25
+2024-09-29,Notebook Pro X,Notebook,Cliente_005,Campinas,7,8991.2,62938.4
+2024-09-12,Notebook Pro X,Notebook,Cliente_061,Porto Alegre,3,8725.81,26177.43
+2024-11-07,Notebook Pro X,Notebook,Cliente_065,Fortaleza,7,7872.42,55106.94
+2024-06-04,Monitor 24,Monitor,Cliente_146,São Paulo,3,1193.12,3579.36
+2024-10-25,Monitor 24,Monitor,,Fortaleza,5,1018.93,5094.65
+2024-04-20,Cadeira Office,Móveis,Cliente_021,Recife,1,1160.44,1160.44
+2024-06-14,Monitor 24,Monitor,Cliente_158,Campinas,3,1050.11,3150.33
+2024-11-30,Teclado Mecânico,Periférico,Cliente_051,São Paulo,5,381.13,1905.65
+2024-04-22,Headset Pro,Áudio,Cliente_123,Rio de Janeiro,6,404.11,2424.66
+2024-07-02,Cadeira Office,Móveis,Cliente_131,Recife,4,1213.93,4855.72
+2024-02-11,SSD 1TB,Armazenamento,Cliente_117,Curitiba,3,470.9,1412.7
+2024-11-20,Notebook Pro X,Notebook,Cliente_195,Salvador,5,7918.48,39592.4
+2024-01-14,SSD 1TB,Armazenamento,Cliente_119,Belo Horizonte,-2,604.92,-1209.84
+2024-11-02,Notebook Pro X,Notebook,Cliente_029,Porto Alegre,6,9740.93,58445.58
+2024-10-06,Notebook Pro X,Notebook,Cliente_005,Campinas,7,7776.63,54436.41
+2024-07-10,Teclado Mecânico,Periférico,Cliente_007,Brasília,1,351.75,351.75
+2024-08-12,Headset Pro,Áudio,Cliente_135,Curitiba,7,442.12,3094.84
+2024-08-06,Webcam HD,Vídeo,Cliente_153,Rio de Janeiro,1,241.34,241.34
+2024-10-15,Teclado Mecânico,Periférico,Cliente_122,Porto Alegre,2,336.85,673.7
+2024-09-11,Webcam HD,Vídeo,Cliente_161,São Paulo,6,291.44,1748.64
+2024-03-28,Headset Pro,Áudio,Cliente_041,Curitiba,3,444.97,1334.91
+2024-05-05,Webcam HD,Vídeo,Cliente_096,Recife,2,239.76,479.52
+2024-05-22,SSD 1TB,Armazenamento,Cliente_059,São Paulo,6,481.35,2888.1
+2024-05-18,Webcam HD,Vídeo,Cliente_158,Curitiba,5,294.78,1473.9
+2024-10-10,Headset Pro,Áudio,Cliente_049,Recife,3,372.65,1117.95
+2024-03-24,Teclado Mecânico,Periférico,Cliente_081,Recife,3,380.47,1141.41
+2024-04-20,Mouse Gamer,Periférico,Cliente_010,,2,160.16,320.32
+2024-09-17,Headset Pro,Áudio,Cliente_195,Fortaleza,7,433.93,3037.51
+2024-10-07,Notebook Pro X,Notebook,Cliente_110,Curitiba,6,7270.76,43624.56
+2024-04-02,Mouse Gamer,Periférico,Cliente_192,Campinas,7,205.77,1440.39
+2024-09-21,Cadeira Office,Móveis,,Belo Horizonte,4,1251.45,5005.8
+2024-10-25,Mouse Gamer,Periférico,Cliente_068,Porto Alegre,-2,177.7,-355.4
+2024-09-09,Teclado Mecânico,Periférico,,Belo Horizonte,1,364.27,364.27
+2024-06-18,Monitor 24,Monitor,Cliente_053,Recife,7,1117.33,7821.31
+2024-02-14,SSD 1TB,Armazenamento,Cliente_158,Rio de Janeiro,4,585.57,2342.28
+2024-07-22,Monitor 24,Monitor,Cliente_024,Fortaleza,4,948.75,3795.0
+2024-09-08,Notebook Pro X,Notebook,Cliente_178,Curitiba,6,8786.26,52717.56
+2024-12-13,Notebook Pro X,Notebook,Cliente_079,Salvador,6,9216.54,55299.24
+2024-11-18,Cadeira Office,Móveis,Cliente_072,São Paulo,1,1027.13,1027.13
+2024-05-08,Dock Station,Acessórios,Cliente_190,Belo Horizonte,3,459.24,1377.72
+2024-08-17,Impressora Laser,Impressão,Cliente_026,,6,1799.43,10796.58
+2024-09-23,Headset Pro,Áudio,Cliente_132,Salvador,7,370.49,2593.43
+2024-10-01,Notebook Pro X,Notebook,Cliente_035,Rio de Janeiro,7,7450.94,52156.58
+2024-05-30,Mouse Gamer,Periférico,Cliente_013,Porto Alegre,6,164.04,984.24
+2024-01-09,Mouse Gamer,Periférico,Cliente_156,Salvador,4,156.12,624.48
+2024-02-02,Webcam HD,Vídeo,Cliente_048,Fortaleza,5,261.51,1307.55
+2024-11-01,SSD 1TB,Armazenamento,Cliente_037,Recife,-5,603.12,-3015.6
+2024-04-23,Mouse Gamer,Periférico,Cliente_120,,3,180.08,540.24
+2024-04-02,Webcam HD,Vídeo,Cliente_100,Campinas,4,313.24,1252.96
+2024-11-06,Notebook Pro X,Notebook,Cliente_170,Belo Horizonte,3,7948.83,23846.49
+2024-08-30,Cadeira Office,Móveis,Cliente_134,Curitiba,6,1337.98,8027.88
+2024-08-30,SSD 1TB,Armazenamento,Cliente_158,Campinas,3,597.86,1793.58
+2024-04-12,Headset Pro,Áudio,Cliente_044,,4,400.76,1603.04
+2024-04-19,Mouse Gamer,Periférico,Cliente_124,São Paulo,7,205.86,1441.02
+2024-11-23,Webcam HD,Vídeo,Cliente_075,São Paulo,6,283.74,1702.44
+2024-10-31,Notebook Pro X,Notebook,Cliente_146,Brasília,7,7319.37,51235.59
+2024-09-25,Notebook Pro X,Notebook,,Rio de Janeiro,3,8884.98,26654.94
+2024-04-16,Cadeira Office,Móveis,Cliente_083,Belo Horizonte,3,1291.43,3874.29
+2024-05-24,Teclado Mecânico,Periférico,Cliente_165,São Paulo,2,301.94,603.88
+2024-02-13,Headset Pro,Áudio,Cliente_160,Rio de Janeiro,3,362.51,1087.53
+2024-01-12,Notebook Pro X,Notebook,Cliente_087,Salvador,6,7568.17,45409.02
+2024-10-01,Notebook Pro X,Notebook,Cliente_150,Rio de Janeiro,7,9429.95,66009.65
+2024-10-06,Notebook Pro X,Notebook,Cliente_031,Salvador,3,8661.69,25985.07
+2024-02-05,Cadeira Office,Móveis,Cliente_017,Fortaleza,3,1190.34,3571.02
+2024-01-28,Impressora Laser,Impressão,Cliente_145,São Paulo,7,1832.43,12827.01
+2024-03-01,Notebook Pro X,Notebook,Cliente_032,Rio de Janeiro,4,7910.11,31640.44
+2024-11-03,Notebook Pro X,Notebook,Cliente_024,Fortaleza,4,9177.06,36708.24
+2024-12-04,Notebook Pro X,Notebook,Cliente_147,Curitiba,1,8558.9,8558.9
+2024-06-10,Mouse Gamer,Periférico,Cliente_160,Belo Horizonte,2,156.11,312.22
+2024-02-04,Mouse Gamer,Periférico,Cliente_052,Rio de Janeiro,3,173.3,519.9
+2024-11-01,Notebook Pro X,Notebook,Cliente_147,Recife,4,9393.98,37575.92
+2024-06-06,Impressora Laser,Impressão,Cliente_102,São Paulo,6,1725.66,10353.96
+2024-01-21,Webcam HD,Vídeo,Cliente_070,Salvador,4,309.47,1237.88
+2024-04-07,Teclado Mecânico,Periférico,Cliente_147,Rio de Janeiro,1,390.17,390.17
+2024-03-13,Impressora Laser,Impressão,Cliente_187,Belo Horizonte,6,1782.62,10695.72
+2024-06-02,Teclado Mecânico,Periférico,Cliente_122,Porto Alegre,1,388.13,388.13
+2024-10-03,Dock Station,Acessórios,Cliente_099,Curitiba,2,416.25,832.5
+2024-06-17,Dock Station,Acessórios,Cliente_017,Curitiba,5,514.8,2574.0
+2024-11-26,Monitor 24,Monitor,Cliente_158,Rio de Janeiro,2,1138.89,2277.78
+2024-11-29,Webcam HD,Vídeo,Cliente_012,São Paulo,5,298.35,1491.75
+2024-01-15,Headset Pro,Áudio,Cliente_085,Rio de Janeiro,3,383.83,1151.49
